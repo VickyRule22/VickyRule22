@@ -1,4 +1,4 @@
-## Hi there 👋
+## Only Cool People Git It
 
 <!--
 **VickyRule22/VickyRule22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
